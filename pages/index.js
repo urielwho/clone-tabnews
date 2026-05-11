@@ -1,7 +1,7 @@
 function Home() {
   return (
     <div>
-      <h1>Em construção.</h1>
+      <h1>Em manutenção.</h1>
       <p>Em breve, meu portfólio estará no ar.</p>
       <p>Amo a Tori.</p>
     </div>
